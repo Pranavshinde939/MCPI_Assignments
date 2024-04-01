@@ -1,0 +1,6 @@
+../Inc/core_cm4.h:1688:22:__NVIC_EnableIRQ	2
+../Src/uart.c:14:6:UartInit	5
+../Src/uart.c:47:6:UartPuts	1
+../Src/uart.c:55:6:USART2_IRQHandler	3
+../Src/uart.c:69:9:UartGetch	2
+../Src/uart.c:78:6:UartGets	2
