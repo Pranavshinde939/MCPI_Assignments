@@ -1,0 +1,2 @@
+../Src/timer.c:9:6:TimerInit	1
+../Src/timer.c:29:6:controlPWM	1
